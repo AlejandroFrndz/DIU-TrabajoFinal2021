@@ -4,8 +4,8 @@ Autor: Fernandez Alcaide, Alejandro
 
 El trabajo consta de 2 partes.\
 La primera consisten en una redacción de autoevaluación de todo el trabajo realizado durante la asignatura, en el que se recojan y expongan las actividades realizadas y los conceptos aprendidos con cada una.\
-La segunda parte consisten en aplicar dichos conocimientos realizando un rediseño de la web [Yuzin](https://yuzin.com/) aplicando de forma libre las diferentes actividades aprendidas durante la asignatura, especialmente en las prácticas
-# Parte I: Mi Experiencia UX
+La segunda parte consisten en aplicar dichos conocimientos realizando un rediseño de la web [YUZIN](https://yuzin.com/) aplicando de forma libre las diferentes actividades aprendidas durante la asignatura, especialmente en las prácticas
+## Parte I: Mi Experiencia UX
 ![Imagen Portada](imgs/Portada_ParteI.png)\
 En este documento se expondrá mi experiencia UX adquirida durante el desarrollo de la asignatura. Las distintas secciones se irán exponiendo en orden cronológico respecto de su realización pues considero que es la mejor forma de exponer los conocimientos que se han ido adquiriendo, de forma que en las primeras actividades se vean claramente las carencias propias de ser la primera vez que me enfrentaba a temas como estos, y en la última se exponga la experiencia y técnicas aprendidas. Hablaremos principalmente de las prácticas y las 3 tareas entregables para teoría pues son las actividades a las que más tiempo he dedicado y que mejor recuerdo.\
 \
@@ -31,3 +31,8 @@ Por ultimo tenemos la actividad relacionada con la accesibilidad que realizamos 
 \
 *Conclusiones Finales*\
 Como hemos visto durante el repaso de las distintas actividades realizadas, creo que durante el desarrollo de la asignatura he aprendido bastantes conceptos sobre diseño y UX los cuales espero demostrar correctamente realizando la tarea que se nos pide.
+## Parte II: Caso de Estudio. YUZIN
+### Paso 1. UX Desk Research & Analisis
+Puesto que el objetivo del trabajo es realizar un rediseño de la web, lo primero que debemos hacer es analizar la solución actual, es decir, la web que nos presenta [YUZIN](https://yuzin.com/). Uno de los aspectos que nos presenta el trabajo es que la web ya experimentó recientemente un rediseño en el que se modificó tanto el aspecto visual de la web como su foco principal. Antes la web se centraba en la revista que Yuzin publica mensualmente en la que recogen eventos culturales en Granada y pasó a tener una orientación más digital, mostrando la web actual, y dejando la revista en un segundo plano. Por tanto, para conocer con qué trabajamos vamos a utilizar la herramienta [Wayback Machine](https://web.archive.org/) que nos permitirá ver de primera mano la versión antigua y así podremos comprender mejor la historia del sitio y lo que suponen los cambios realizados\
+![Antigua Web YUZIN](imgs/yuzin_antigua.png)
+Podemos ver que se trata de una web completamente estática, lo cuál está completamente desfasado con respecto a las tendencias actuales. Si bien no se debe sobrecargar de dinamismo una web, tampoco es bueno que esta sea completamente estática. Con el diseño antiguo, la web era una herramienta de paso en la que los usuarios apenas pasarían tiempo pues no se les ofrece nada más que un escaparate mediante el cual acceder a la revista. Por tanto, considero adecuado haber realizado un rediseño de la web para aportarle mayor funcionalidad y en definitiva aportar algo de valor que haga que los usuarios quieran acceder a la web y pasar algo de tiempo en ella. No obstante, habrá que estudiar ahora como de bueno es el rediseño efectuado, identificar qué aspectos se podrían mejorar y finalmente exponer mi propuesta de (re)rediseño.
