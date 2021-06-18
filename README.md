@@ -60,4 +60,12 @@ Debido al tiempo limitado del que disponemos para realizar esta actividad, centr
 - Al igual que con el logo y para adaptarnos a la nueva paleta de colores, los tonos amarillos y azules serían sustituidos por los colores carmesí y narjan, respectivamente, de la paleta en todas las páginas de la web
 - El encabezado que se muestre en la página principal será el que permanezca y por tanto aparezca en el resto de páginas, reemplazando al encabezado que actualmente presentan
 - Puesto que del encabezado se va a retirar la barra de búsqueda de eventos, la página de Agenda Cultural pasaría a incorporar esta barra exclusivamente
-A continuación se muestran bocetos sencillos en wireframe de la nueva página principal así como de la página de página para artículos que actualmente no existe.
+- Todas las páginas, a excepción de la principal, incorporarán unos breadcrumbs de forma que el usuario pueda saber fácilmente dónde se encuentra dentro de la web
+A continuación se muestran bocetos sencillos en wireframe de la nueva página principal así como de la página de página para artículos que actualmente no existe.\
+\
+**Página Principal**
+![Wireframe Página Principal](imgs/wireframe-main.png)
+\
+**Artículos**
+![Wireframe Artículos](imgs/wireframe-articulos.png)
+#### 2.4 Patrones de Diseño
