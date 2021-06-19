@@ -6,6 +6,8 @@ El trabajo consta de 2 partes.\
 La primera consisten en una redacción de autoevaluación de todo el trabajo realizado durante la asignatura, en el que se recojan y expongan las actividades realizadas y los conceptos aprendidos con cada una.\
 La segunda parte consisten en aplicar dichos conocimientos realizando un rediseño de la web [YUZIN](https://yuzin.com/) aplicando de forma libre las diferentes actividades aprendidas durante la asignatura, especialmente en las prácticas
 ## Parte I: Mi Experiencia UX
+Versión en [PDF](pdfs/Mi_Experiencia_UX.pdf)\
+\
 ![Imagen Portada](imgs/Portada_ParteI.png)\
 En este documento se expondrá mi experiencia UX adquirida durante el desarrollo de la asignatura. Las distintas secciones se irán exponiendo en orden cronológico respecto de su realización pues considero que es la mejor forma de exponer los conocimientos que se han ido adquiriendo, de forma que en las primeras actividades se vean claramente las carencias propias de ser la primera vez que me enfrentaba a temas como estos, y en la última se exponga la experiencia y técnicas aprendidas. Hablaremos principalmente de las prácticas y las 3 tareas entregables para teoría pues son las actividades a las que más tiempo he dedicado y que mejor recuerdo.\
 \
